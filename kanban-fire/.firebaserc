@@ -1,0 +1,12 @@
+{
+  "targets": {
+    
+    "kanbanfire-f1d7d": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-f1d7d"
+        ]
+      }
+    }
+  }
+}
