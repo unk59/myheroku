@@ -12,6 +12,9 @@ app.get("/status", (req, res) => {
     res.send("Status OK");
 });
 
+app.get("/", (req, res) => {
+    res.send("Home OK");
+});
 
 app.listen(route, () => {
     console.log("Server Started at", process.env.PORT || 3000);
