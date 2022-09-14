@@ -1,7 +1,0 @@
-{
-  "name": "localJson",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
